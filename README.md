@@ -29,3 +29,4 @@ n=int(input())
 ![image](https://github.com/paulsamson18/Circulate-the-values-of-N-variables/assets/119405794/ffb77e90-d1d8-43ff-9135-dd0b413e97b1)
 
 ## Result:
+this program is to circulate the variables of N variables
