@@ -29,7 +29,8 @@ l=eval(input())
 n=int(input())
 ```
 ## Output:
-![image](https://github.com/paulsamson18/Circulate-the-values-of-N-variables/assets/119405794/ffb77e90-d1d8-43ff-9135-dd0b413e97b1)
+![image](https://github.com/paulsamson18/Circulate-the-values-of-N-variables/assets/119405794/58720a67-f6a3-4d5d-9f07-a42e0364ce50)
+
 
 ## Result:
 this program is to circulate the variables of N variables
